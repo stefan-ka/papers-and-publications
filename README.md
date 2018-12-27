@@ -1,6 +1,10 @@
 # Papers & Publications
 This repo contains papers and published projects of mine.
 
+ * [Model Transformations for DSL Processing](./model-transformations-for-dsl-processing),
+   Seminar Paper 2018,
+   [PDF](./model-transformations-for-dsl-processing/HS18_SKapferer_Model-Transformations-for-DSL-Processing-Paper.pdf)
+   [TeX](./model-transformations-for-dsl-processing/HS18_SKapferer_Model-Transformations-for-DSL-Processing-Paper.tex)
  * [Attributbasierte Autorisierung in einer Branchenlösung für das Versicherungswesen](./attribute-based-access-control-in-a-standard-software-for-the-insurance-sector/README.md), 
    Bachelor Thesis 2017, 
    [Abstract](./attribute-based-access-control-in-a-standard-software-for-the-insurance-sector/17_BA_Jost-Kapferer_Abstract.pdf),
