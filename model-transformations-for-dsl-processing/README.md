@@ -9,4 +9,4 @@ example application in the context of architectural refactorings and service dec
 can be applied to Domain-specific Language (DSL) processing. Finally, the Henshin concepts and its tools are evaluated based on the experience
 gained through the development of the presented examples.
 
-[PDF](./HS18_SKapferer_Model-Transformations-for-DSL-Processing-Paper.pdf) | [TeX](./HS18_SKapferer_Model-Transformations-for-DSL-Processing-Paper.tex)
+[Paper (PDF)](./HS18_SKapferer_Model-Transformations-for-DSL-Processing-Paper.pdf) | [Presentation (PDF)](./HS18_SKapferer_Model-Transformations-for-DSL-Processing-Presentation.pdf) | [Paper (TeX)](./HS18_SKapferer_Model-Transformations-for-DSL-Processing-Paper.tex) | [Presentation (TeX)](./HS18_SKapferer_Model-Transformations-for-DSL-Processing-Presentation.tex)
