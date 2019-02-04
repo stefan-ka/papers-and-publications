@@ -1,6 +1,10 @@
 # Papers & Publications
 This repo contains papers and published projects of mine.
 
+ * [A Domain-specific Language for Service Decomposition](./a-dsl-for-service-decomposition),
+   Term Project 2018,
+   [Abstract](./a-dsl-for-service-decomposition/HS18-MSE-Stefan-Kapferer-A-DSL-for-Service-Decomposition-Abstract.pdf)
+   [PDF](./a-dsl-for-service-decomposition/HS18-MSE-Stefan-Kapferer-A-DSL-for-Service-Decomposition.pdf)
  * [Model Transformations for DSL Processing](./model-transformations-for-dsl-processing),
    Seminar Paper 2018,
    [PDF](./model-transformations-for-dsl-processing/HS18_SKapferer_Model-Transformations-for-DSL-Processing-Paper.pdf)
