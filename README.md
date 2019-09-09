@@ -1,6 +1,10 @@
 # Papers & Publications
 This repo contains papers and published projects of mine.
 
+ * [Service Decomposition as a Series of Architectural Refactorings](./service-decomposition-as-a-series-of-architectural-refactorings),
+   Term Project 2019,
+   [Abstract](./service-decomposition-as-a-series-of-architectural-refactorings/FS19-MSE-Stefan-Kapferer-Service-Decomposition-Architectural-Refactorings-Abstract.pdf),
+   [PDF](./service-decomposition-as-a-series-of-architectural-refactorings/FS19-MSE-Stefan-Kapferer-Service-Decomposition-Architectural-Refactorings.pdf)
  * [Empirical Research in Software Engineering](./empirical-research-in-software-engineering),
    Seminar Paper 2019,
    [PDF](./empirical-research-in-software-engineering/FS19_SKapferer_Empirical-Research-in-Software-Engineering-Paper.pdf),
