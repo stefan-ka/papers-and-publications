@@ -1,6 +1,10 @@
 # Papers & Publications
 This repo contains papers and published projects of mine.
 
+ * [A Modeling Framework for Strategic Domain-driven Design and Service Decomposition](./modeling-framework-strategic-domain-driven-design),
+   Master Thesis 2020,
+   [Abstract](./modeling-framework-strategic-domain-driven-design/HS19-MSE-Master-Thesis-Abstract-Stefan-Kapferer-SDDD-Modeling-Framework.pdf),
+   [PDF](./modeling-framework-strategic-domain-driven-design/HS19-MSE-Master-Thesis-Report-PUBLIC-Stefan-Kapferer-SDDD-Modeling-Framework.pdf)
  * [Service Decomposition as a Series of Architectural Refactorings](./service-decomposition-as-a-series-of-architectural-refactorings),
    Term Project 2019,
    [Abstract](./service-decomposition-as-a-series-of-architectural-refactorings/FS19-MSE-Stefan-Kapferer-Service-Decomposition-Architectural-Refactorings-Abstract.pdf),

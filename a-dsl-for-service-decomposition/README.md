@@ -6,4 +6,4 @@ This project presents a Domain-specific Language (DSL) based on the strategic DD
 
 The DSL is meant to provide a foundation for other service decomposition approaches. Future projects may propose architectural refactorings for the DSL based on model transformations. Other approaches based on algorithms and heuristics similar to Service Cutter could be applied as well. A code generator to create microservice project templates for the modeled Bounded Contexts might be another promising feature for the future.
 
-[Abstract](./HS18-MSE-Stefan-Kapferer-A-DSL-for-Service-Decomposition-Abstract.pdf) | [PDF](./HS18-MSE-Stefan-Kapferer-A-DSL-for-Service-Decomposition.pdf) | [Publication University of Applied Sciences Rapperswil, HSR](https://eprints.hsr.ch/722/) | [Context Mapper Project Page](https://contextmapper.github.io/)
+[Abstract](./HS18-MSE-Stefan-Kapferer-A-DSL-for-Service-Decomposition-Abstract.pdf) | [PDF](./HS18-MSE-Stefan-Kapferer-A-DSL-for-Service-Decomposition.pdf) | [Publication University of Applied Sciences Rapperswil, HSR](https://eprints.hsr.ch/722/) | [Context Mapper Project Page](https://contextmapper.org/)
